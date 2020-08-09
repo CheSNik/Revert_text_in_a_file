@@ -1,0 +1,1 @@
+This program reads predefined .txt file, reverts text backward and writes reverted text to a new file in the same directory.

@@ -1,0 +1,12 @@
+/**
+     * Method reverse any input string
+     * @param string
+     * @return
+     */
+    public static String revertIt(String string) {
+        String revertedString="";
+        for (int i = string.length()-1; i >=0; i--) {
+            revertedString = revertedString+(string.charAt(i));
+        }
+        return revertedString;
+    }
